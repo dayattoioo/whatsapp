@@ -1,0 +1,21 @@
+{
+  "name": "whatsapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@adiwajshing/baileys": "^3.5.1",
+    "bip39": "^3.0.4",
+    "ethers": "^5.4.3",
+    "human-standard-token-abi": "^2.0.0",
+    "mongodb": "^4.1.0",
+    "moralis": "0.0.30",
+    "web3": "^1.5.0"
+  }
+}
